@@ -1,5 +1,5 @@
 # Vibrotactile-Feedback-for-children-with-ADHD
-Created a vibrotactile feedback based wristband with ESP32C3 microcontroller and a Lilypad vibrator which can receive commands via a GUI wirelessly connected to the same WiFi
+Created a vibrotactile feedback based wristband with ESP32C3 microcontroller and a Lilypad vibrator which can receive commands via a GUI wirelessly connected to the same WiFi.
 # Wireless Vibrotactile Feedback System
 
 ## 📌 Project Overview
@@ -108,11 +108,11 @@ This project implements a **wireless vibrotactile feedback system** using an **E
 
 ---
 
-## 🏆 Credits
+## Credits
 
-Developed by **Someshvar** 🔥
+Developed by **Someshvar** 
 
 If you find this project useful, give it a ⭐ on **GitHub**!
 
-Happy Hacking! 🚀😎
+Happy Hacking!
 
